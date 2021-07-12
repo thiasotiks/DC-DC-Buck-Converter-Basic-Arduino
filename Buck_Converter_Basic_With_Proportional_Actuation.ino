@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021 Sayantan Sinha
+ *
+ * MIT License
+ */
+
 #define VREF 320                           // Reference voltage for approx. 5V output
 #define DUTY_MAX (ICR1 - 10)
 #define H(X) (X / 2)                       // A gain factor in the proportional control action
