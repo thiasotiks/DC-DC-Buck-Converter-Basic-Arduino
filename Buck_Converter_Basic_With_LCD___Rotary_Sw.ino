@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021 Sayantan Sinha
+ *
+ * MIT License
+ */
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
