@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021 Sayantan Sinha
+ *
+ * MIT License
+ */
+
 #define VREF 320                           // Reference voltage for approx. 5V output
 
 const int pinFb = A0;                      // Output voltage feedback at pin A0
